@@ -10,7 +10,7 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 # 必要部品
 - [USB Type-Cコネクタ(6極)](https://www.aitendo.com/product/17279) 1個
 - [チップ抵抗 5.1kΩ(1608サイズ)](https://www.aitendo.com/product/9962) 2個 ※R1,R2のところに実装
-- [ピンヘッダ5p](https://www.aitendo.com/product/1798)（出力部に取り付ける場合のみ）1個
+- 用途にあわせて、[ピンヘッダ5p](https://www.aitendo.com/product/1798)（出力部に取り付ける場合のみ）など
 
 ![5Vfunc](USBCpow1f.jpg)
 
