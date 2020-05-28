@@ -16,8 +16,7 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 
 以下、3.3V出力を作る場合の追加部品
 - [レギュレータLM1117-3.3（または互換品）](https://www.aitendo.com/product/13388) 1個
-- [チップコンデンサ 0.1uF(1608サイズ)/10V以上](https://www.aitendo.com/product/6985) 1個 ※C1のところに実装
-- [チップコンデンサ 10uF(1608サイズ)/10V以上](https://www.aitendo.com/product/6985) 1個 ※C2のところに実装
+- [チップコンデンサ 10uF(1608サイズ)/10V以上](https://www.aitendo.com/product/6985) 2個 ※C1,C2のところに実装
 
 ![3.3V](USBCpow2.jpg)
 
