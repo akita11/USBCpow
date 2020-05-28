@@ -1,5 +1,9 @@
 # USBCpow
 
+![5V](USBCpow1.jpg)
+
+
+
 USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギュレータを載せて、3.3Vも出力することができます。
 （USBCpow5x6.kicad_pcbは、5x6個を面付けした状態です）
 
@@ -13,6 +17,15 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 - [チップコンデンサ 0.1uF(1608サイズ)/10V以上](https://www.aitendo.com/product/6985) 1個 ※C1のところに実装
 - [チップコンデンサ 10uF(1608サイズ)/10V以上](https://www.aitendo.com/product/6985) 1個 ※C2のところに実装
 
+![3.3V](USBCpow2.jpg)
+
+![3.3Vback](USBCpowb.jpg)
+
+# 使い方
+
+![5Vfunc](USBCpow1f.jpg)
+
+![3.3Vback](USBCpowb.jpg)
 
 # Author
 
