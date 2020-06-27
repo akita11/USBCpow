@@ -151,4 +151,32 @@ Connection ~ 5300 1800
 Wire Wire Line
 	5300 2100 5300 2000
 Connection ~ 5300 2000
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5EF68C15
+P 5500 2300
+F 0 "J2" H 5580 2342 50  0000 L CNN
+F 1 "Conn_01x01" H 5580 2251 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5500 2300 50  0001 C CNN
+F 3 "~" H 5500 2300 50  0001 C CNN
+	1    5500 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 5EF6A071
+P 5500 2400
+F 0 "J3" H 5580 2442 50  0000 L CNN
+F 1 "Conn_01x01" H 5580 2351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5500 2400 50  0001 C CNN
+F 3 "~" H 5500 2400 50  0001 C CNN
+	1    5500 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 2300 5300 2300
+Connection ~ 5200 2300
+Wire Wire Line
+	5300 2300 5300 2400
+Connection ~ 5300 2300
 $EndSCHEMATC
