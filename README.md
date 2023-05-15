@@ -30,15 +30,15 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 
 以下のようにGNDと+5V（または+3.3V）に2ピンのピンヘッダをとりつけることで、ブレッドボードの電源ラインへの給電につかうことができます。
 
-<img src="https://github.com/akita11/USBCpow/blob/main/USBCpow_usage1.jpg" width="240px">
+<img src="https://github.com/akita11/USBCpow/blob/master/USBCpow_usage1.jpg" width="240px">
 
-<img src="https://github.com/akita11/USBCpow/blob/main/USBCpow_usage2.jpg" width="240px">
+<img src="https://github.com/akita11/USBCpow/blob/master/USBCpow_usage2.jpg" width="240px">
 
 以下のようにUSBコネクタ脇の穴に1ピンのピンヘッダをとりつけることで、ブレッドボードにしっかり固定することができます。
 
-<img src="https://github.com/akita11/USBCpow/blob/main/USBCpow_usage3.jpg" width="240px">
+<img src="https://github.com/akita11/USBCpow/blob/master/USBCpow_usage3.jpg" width="240px">
 
-<img src="https://github.com/akita11/USBCpow/blob/main/USBCpow_usage4.jpg" width="240px">
+<img src="https://github.com/akita11/USBCpow/blob/master/USBCpow_usage4.jpg" width="240px">
 
 
 # Author
