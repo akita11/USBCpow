@@ -6,10 +6,7 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 
 なお実際に供給できる電流は、給電側（USB ACアダプタやモバイルバッテリ）の性能に依存します。また3.3V出力は600mAまでです。
 
-
-https://www.switch-science.com/products/6434
-
-https://www.switch-science.com/products/6435
+完成品はスイッチサイエンス等で委託販売中です。[5V版](https://www.switch-science.com/products/6434) / [5V/3.3V版](https://www.switch-science.com/products/6435)
 
 
 # 必要部品
