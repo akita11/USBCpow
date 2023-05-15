@@ -3,9 +3,13 @@
 ![5V](USBCpow1.jpg)
 
 USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギュレータを載せて、3.3Vも出力することができます。
-（USBCpow5x6.kicad_pcbは、5x6個を面付けした状態です）
 
 なお実際に供給できる電流は、給電側（USB ACアダプタやモバイルバッテリ）の性能に依存します。また3.3V出力は600mAまでです。
+
+
+https://www.switch-science.com/products/6434
+
+https://www.switch-science.com/products/6435
 
 
 # 必要部品
@@ -26,6 +30,19 @@ USB Type-Cから5Vを供給するボードです。オプションで3.3Vレギ�
 # 使い方
 
 +5V（および+3.3V）、GNDの端子にビニール線やピンヘッダやソケットをとりつけ、回路に電源を供給します。
+
+以下のようにGNDと+5V（または+3.3V）に2ピンのピンヘッダをとりつけることで、ブレッドボードの電源ラインへの給電につかうことができます。
+
+<img src="https://github.com/akita11/USB-ABC/blob/main/USBCpow_usage1.jpg" width="240px">
+
+<img src="https://github.com/akita11/USB-ABC/blob/main/USBCpow_usage2.jpg" width="240px">
+
+以下のようにUSBコネクタ脇の穴に1ピンのピンヘッダをとりつけることで、ブレッドボードにしっかり固定することができます。
+
+<img src="https://github.com/akita11/USB-ABC/blob/main/USBCpow_usage3.jpg" width="240px">
+
+<img src="https://github.com/akita11/USB-ABC/blob/main/USBCpow_usage4.jpg" width="240px">
+
 
 # Author
 
